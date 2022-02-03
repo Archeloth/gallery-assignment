@@ -1,0 +1,20 @@
+@import "~bootstrap/scss/bootstrap";
+@import "/node_modules/@fancyapps/ui/dist/fancybox.css";
+
+.card-img, .card-img-top, .card-img-bottom {
+    width: 100%;
+    object-fit: cover;
+}
+
+@include media-breakpoint-up(md) {
+    .card-img, .card-img-top, .card-img-bottom {
+        height: 20vw;
+    }
+    .card:hover {
+        cursor: pointer;
+        z-index: 10;
+        transition: transform .5s ease-in-out;
+        transition-delay: .1s;
+        transform: scale(1.25);
+    }
+  }
