@@ -22,5 +22,5 @@ Clicked on an image must open up a pop-up, with the full image.
 
 ## Images of the application
 
-![Demo](https://raw.githubusercontent.com/Archeloth/gallery-assignment/main/public/img/demo.png?token=GHSAT0AAAAAABQRR7SSPDZ3VNKJDYMSHTTWYP34K6Q)
+![Demo](https://github.com/Archeloth/gallery-assignment/blob/master/public/img/demo.png)
 
